@@ -19,6 +19,6 @@ sudo chsh -s /bin/bash shiyanlou
 ```
 
 3. 用 shiyanlou 这个账号登录。
-4. 下载 `oslab.zip` ，放到 `/home/shiyanlou/` 目录下并解压。
+4. 下载 `oslab.zip` ，放到 `/home/shiyanlou/` 目录下并解压。(上传文件到虚拟机可以使用 VMware tools 工具)
 5. 在桌面环境下，打开终端，进入 `/home/shiyanlou/oslab/` 后运行 `./dbg-c` 。
 6. 打开另一个终端（可以是 ssh 连接的终端），进入 `/home/shiyanlou/oslab/` 后运行 `./rungdb` 。
